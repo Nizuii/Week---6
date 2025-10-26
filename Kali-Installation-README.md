@@ -36,7 +36,7 @@ Example downloaded file:
 kali-linux-2025.2-virtualbox-amd64.7z
 ```
 
-![Download Kali VM](/Kali_installation/Kali_download.png)
+![Download Kali VM](/images/Kali_download.png)
 
 ---
 
@@ -86,7 +86,7 @@ You should now see the VirtualBox GUI.
 
 Once imported, select the VM and click **Start**.
 
-![Kali VM Running](/Kali_installation/VirtualBox_kali-linux-2025.2-virtualbox-amd64_21_08_2025_20_23_28.png)
+![Kali VM Running](/images/VirtualBox_kali-linux-2025.2-virtualbox-amd64_21_08_2025_20_23_28.png)
 
 ---
 
