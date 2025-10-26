@@ -65,3 +65,12 @@ Information security is divided into several core areas that work together to pr
   
   <strong>Goal:</strong> Protect hardware and facilities housing critical data.
 </ol>
+
+# ⚠️ Common Infosec Threats.
+<ul>
+  <li><strong>Malware:</strong> Viruses, Ransomware or trojans designed to damage or steal data.</li>
+  <li><strong>Phishing:</strong> Fake emails or websites that tricks users into sharing passwords.</li>
+  <li><strong>Social Engineering:</strong> Manipulating people into giving away confidential information.</li>
+  <li><strong>DDOS (Distributed denial or service):</strong> Overloading systems to make them unavilable.</li>
+  <li><strong>Insider Threats:</strong> Employees misusing access or leaking data.</li>
+</ul>
