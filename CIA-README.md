@@ -41,11 +41,48 @@ The CIA Triad is not about following rules blindly: it’s about balancing all t
     <li><strong>MITM (Man in the middle):</strong> Intercepting and reading data sent between two parties.​</li>
     <li><strong>Packet Sniffing:</strong> Listening to network traffic to capture credit card numbers or passwords.</li>
   </ul>
-  <li>Prevention</li>
+  <li>Prevention:</li>
   <ul>
     <li>Use encryption for data at rest and in transit.</li>
     <li>Implement access control policies (like permissions).</li>
     <li>Use strong, unique passwords and multi-factor authentication (MFA).</li>
     <li>Educate users to spot phishing.</li>
+  </ul>
+</ul>
+
+<h2>Attacks on Integrity</h2>
+<ul>
+  <li>Example:</li>
+  <ul>
+    <li><strong>Website defacement:</strong> Hackers change what a site displays to spread false messages.</li>
+    <li><strong>SQL Injection:</strong> Exploiting weak code to alter or delete data in databases.</li>
+    <li><strong>Ransomware:</strong> Encrypts files and may also tamper with data.</li>
+    <li><strong>Malware:</strong> Inserts harmful code that changes files or system settings.</li>
+    <li><strong>Insider attacks:</strong> Authorized users exceeding their privileges to change records.</li>
+  </ul>
+  <li>Prevention:</li>
+  <ul>
+    <li>Validate and sanitize inputs (to block SQL injection).</li>
+    <li>Use file integrity monitoring tools.</li>
+    <li>Limit user privileges: "least privilege principle".</li>
+    <li>Regularly backup data and check for unauthorized changes.</li>
+  </ul>
+</ul>
+
+<h2>Attack on Availability</h2>
+<ul>
+  <li>Example:</li>
+  <ul>
+    <li><strong>Distributed Denial of Service (DDoS):</strong> Overloads servers so nobody can use them.</li>
+    <li><strong>Ransomware:</strong> Locks you out of your data until you pay.</li>
+    <li><strong>Hardware failure or natural disasters:</strong> Unexpected outages.</li>
+    <li><strong>Network misconfiguration:</strong> Prevents legitimate access.</li>
+  </ul>
+  <li>Prevention:</li>
+  <ul>
+    <li>Employ redundant systems (multiple servers or backup hardware).</li>
+    <li>Keep regular backups stored safely.</li>
+    <li>Use firewalls and anti-DDoS technologies.</li>
+    <li>Test disaster recovery plans often.</li>
   </ul>
 </ul>
