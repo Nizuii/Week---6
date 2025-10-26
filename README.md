@@ -47,17 +47,21 @@ Information security is divided into several core areas that work together to pr
 
   <li><h3>Incident response.</h3></li>
   Incident response prepares for, detects, and reacts to security incidents such as data breaches or malware outbreaks. Organizations use incident response plans (IRPs) to reduce damage and restore operations quickly.
+  
   <strong>Goal:</strong> Minimize impact and prevent recurrence of breaches.
 
   <li><h3>Vulnerability and risk management</h3></li>
   This area focuses on identifying, assessing, and resolving security weaknesses in systems before attackers exploit them. Tools like vulnerability scanners and patch management software are commonly used.
+  
   <strong>Goal:</strong> Maintain security by addressing known risks proactively.
 
   <li><h3>Governance, Risk, and Compliance (GRC)</h3></li>
   GRC connects InfoSec activities with business goals and legal requirements. It ensures organizations follow security standards and government regulations such as GDPR or ISO 27001.
+  
   <strong>Goal:</strong> Align security programs with laws, business strategies, and ethical standards.
 
   <li><h3>Physical security.</h3></li>
   While most InfoSec areas focus on digital defense, physical security controls (CCTV, access cards, and locks) prevent unauthorized individuals from physically accessing data storage or computing systems.
+  
   <strong>Goal:</strong> Protect hardware and facilities housing critical data.
 </ol>
