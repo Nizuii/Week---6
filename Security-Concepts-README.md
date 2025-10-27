@@ -54,7 +54,7 @@ A payload is the component of an exploit or malware that actually performs the m
 <ul>
   <li>Installing ransomware</li>
   <li>Stealing credentials or financial data</li>
-  <li>Logging keystrokes</li>\
+  <li>Logging keystrokes</li>
   <li>Executing remote commands</li>
   <li>Exfiltrating files to a remote server</li>
 </ul>
