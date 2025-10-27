@@ -15,4 +15,5 @@ Tor is designed for strong anonymity by routing your internet traffic through mu
   <li>Use proxies for simple tasks needing IP masking, like bypassing basic website restrictions, but not for sensitive tasks.</li>
   <li>Use Tor when maximum anonymity is essential, especially for whistleblowing, research, or getting around strict censorship, knowing it is slower and only covers browser traffic.​</li>
 </ul>
-> "Each method has its own strengths, weaknesses, and appropriate use cases, giving you options based on your privacy needs."
+
+Each method has its own strengths, weaknesses, and appropriate use cases, giving you options based on your privacy needs.
