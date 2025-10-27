@@ -3,6 +3,7 @@ In cybersecurity, understanding threats, weaknesses, vulnerabilities, payloads, 
 
 <h2>Threats</h2>
 A threat is any event or actor that has the potential to cause harm to systems, networks, or data. Threats can be intentional (hackers, malware) or unintentional (human error, system failure).
+
 <strong>Examples of cyber threats:</strong>
 <ul>
   <li>Malware infections (viruses, worms, trojans)</li>
@@ -15,6 +16,7 @@ A threat becomes dangerous only when it finds a vulnerability it can exploit.
 
 <h2>Weakness</h2>
 A weakness is any design flaw, misconfiguration, or human mistake that reduces security. Weaknesses aren’t always exploitable directly but can lead to vulnerabilities if not addressed.
+
 <strong>Examples:</strong>
 <ul>
   <li>Poor password management</li>
@@ -27,6 +29,7 @@ Weaknesses form the underlying causes that create vulnerabilities in systems.
 
 <h2>Vulnerabilities</h2>
 A vulnerability is a specific flaw in hardware, software, or procedure that attackers can exploit to gain unauthorized access or cause harm.​
+
 <strong>Types:</strong>
 <ul>
   <li><strong>Software vulnerabilities:</strong> Bugs or coding flaws such as buffer overflows and SQL injection.</li>
@@ -38,6 +41,7 @@ Vulnerabilities are identified and cataloged globally through CVE (Common Vulner
 
 <h2>Exploits</h2>
 An exploit is the actual method or piece of code attackers use to take advantage of a vulnerability.
+
 <strong>Exploit lifecycle:</strong>
 <ol>
   <li>Discovery - the attacker finds a flaw</li>
@@ -50,6 +54,7 @@ Exploits can target software, networks, or even human users.
 
 <h2>Payloads</h2>
 A payload is the component of an exploit or malware that actually performs the malicious action after successful exploitation.
+
 <strong>Common payloads include</strong>
 <ul>
   <li>Installing ransomware</li>
