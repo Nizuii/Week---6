@@ -35,3 +35,34 @@ A vulnerability is a specific flaw in hardware, software, or procedure that atta
   <li><strong>Human vulnerabilities:</strong> Phishing susceptibility or unsafe behavior online.</li>
 </ul>
 Vulnerabilities are identified and cataloged globally through CVE (Common Vulnerabilities and Exposures) listings, each assigned a severity score (CVSS).
+
+<h2>Exploits</h2>
+An exploit is the actual method or piece of code attackers use to take advantage of a vulnerability.
+<strong>Exploit lifecycle:</strong>
+<ol>
+  <li>Discovery - the attacker finds a flaw</li>
+  <li>Development - Exploit code or script is created.</li>
+  <li>Weaponization - payloads (malware or ransomeware) are added to exploit</li>
+  <li>Delivery - exploit is sent via phishing, infected websites, or downloadable files.</li>
+  <li>Execution - the exploit triggers and achieves its goal (theft, privilege escalation, or takeover).</li>
+</ol>
+Exploits can target software, networks, or even human users.
+
+<h2>Payloads</h2>
+A payload is the component of an exploit or malware that actually performs the malicious action after successful exploitation.
+<strong>Common payloads include</strong>
+<ul>
+  <li>Installing ransomware</li>
+  <li>Stealing credentials or financial data</li>
+  <li>Logging keystrokes</li>\
+  <li>Executing remote commands</li>
+  <li>Exfiltrating files to a remote server</li>
+</ul>
+<strong>In simple terms:</strong>
+<ul>
+  <li>The vulnerability is the unlocked door.</li>
+  <li>The exploit is the method of opening it</li>
+  <li>The payload is what the attacker does once inside.</li>
+  <li>The threat is the attacker waiting to strike.</li>
+  <li>The weakness is the underlying reason the door was left unlocked.</li>
+</ul>
