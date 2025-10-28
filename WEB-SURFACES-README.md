@@ -12,6 +12,7 @@ This is the part of the internet that search engines like Google, Bing, or Yahoo
 
 # 🌊 2. Deep Web — The Hidden But Legal Section\
 This includes all web pages and databases not indexed by search engines. You need special access — like a password or login — to reach them. But don’t get it twisted — the Deep Web isn’t “illegal”; it’s just private.
+
 <strong>Example:</strong>
 <ul>
   <li>Yoyr email inbox</li>
@@ -22,6 +23,7 @@ This includes all web pages and databases not indexed by search engines. You nee
 
 # 🌑 3. Dark Web — The Encrypted Underground
 This is a small part of the Deep Web, intentionally hidden and only accessible via special software like Tor (The Onion Router). Here, users and website owners are anonymous — their IP addresses are masked.
+
 <strong>Examples:</strong>
 <ul>
   <li>Anonymous forums and whistleblower sites (like SecureDrop)</li>
